@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Решение задач по программированию",
+        "issuedBy": "HackerRank",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "Программист",
+        "issuedBy": "HackerRank",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "C#",
+        "issuedBy": "HackerRank",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "Python",
+        "issuedBy": "HackerRank",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "Основы C# с Microsoft",
+        "issuedBy": "freeCodeCamp",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "Аналитик Creatio",
+        "issuedBy": "Creatio",
+        "alt": "Изображение сертификата"
+    },
+    {
+        "name": "FullStack-разработка",
+        "issuedBy": "Holberton School",
+        "alt": "Изображение сертификата"
+    }
+]

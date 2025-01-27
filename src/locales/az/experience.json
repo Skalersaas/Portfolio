@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Sistem Analitiki",
+        "institution": "Bpm Consult",
+        "dates": "May 2024 - Sentyabr 2024",
+        "desc": "İşlədiyim dövrdə, müxtəlif müştərilər üçün işlək sistemlər təmin etdim, bunlara maliyyə qurumları, hüquq firmaları və istehsalat şirkətləri daxildir.",
+        "roles": [
+            "Müştəri ehtiyaclarını qiymətləndirmək",
+            "Hər bir problemə uyğun optimal həllər təklif etmək",
+            "Ətraflı iş planları hazırlamaq",
+            "Son nəticələri qəbul edib, müştərilərə təqdim etmək"
+        ]
+    },
+    {
+        "title": "Backend developer",
+        "institution": "Holberton School",
+        "dates": "Yanvar 2024 - Davam edir",
+        "desc": "Komanda rəhbəri olaraq layihə arxitekturalarını dizayn edirəm, miqyaslama və performansı təmin edirəm. Çətin tapşırıqları bölürəm, onları komanda üzvlərinə təyin edirəm və inkişaf prosesi boyunca rəhbərlik edirəm. Əməkdaşlığı və aydın kommunikasiya təşviq edərək komandanın eyni istiqamətdə qalmasını və yüksək keyfiyyətli nəticələr çatdırmasını təmin edirəm.",
+        "roles": [
+            "ASP.NET və SQL istifadə edərək tətbiqlərin backend hissəsini inkişaf etdirdim",
+            "API-lər qurdum, verilənlər bazası inteqrasiyalarını idarə etdim",
+            "Komandalarda əməkdaşlıq etdim, kod nəzərdən keçirmə və səhv aradan qaldırma proseslərinə qatıldım"
+        ]
+    }
+]

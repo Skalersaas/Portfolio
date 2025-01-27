@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Problem Solving",
+        "issuedBy": "HackerRank",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "Software Engineer",
+        "issuedBy": "HackerRank",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "C#",
+        "issuedBy": "HackerRank",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "Python",
+        "issuedBy": "HackerRank",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "Foundational C# with Microsoft",
+        "issuedBy": "freeCodeCamp",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "Sales Creatio Analyst",
+        "issuedBy": "Creatio",
+        "alt": "Certificate Image"
+    },
+    {
+        "name": "FullStack Development",
+        "issuedBy": "Holberton School",
+        "alt": "Certificate Image"
+    }
+]

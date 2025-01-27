@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Bachelor of Science in Computer Engineering",
+        "institution":"Azerbaijan State Oil and Industry University",
+        "dates": "2022 - Present",
+        "roles":[
+            "Data structures",
+            "Database Management",
+            "Web development basics"
+        ]
+    },
+    {
+        "title": "Full Stack development",
+        "institution":"Holberton School",
+        "dates": "Feb 2024 - Nov 2024",
+        "roles":[
+            "Data structures and algorithms",
+            "Database Management",
+            "Responsive Design",
+            "Advanced Backend development"
+        ]
+    }
+]

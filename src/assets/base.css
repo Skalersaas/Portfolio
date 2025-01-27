@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    font-family: 'Manrope', sans-serif;
+  }
+
+.scroll-container {
+    display: flex;
+    overflow-x: auto;
+    height: 100vh;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+}
+
+.section {
+    width: 100vw;
+    scroll-snap-align: start;
+    overflow-y: auto;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+}

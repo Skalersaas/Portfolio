@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Kompüter Mühəndisliyi üzrə BSc",
+        "institution": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+        "dates": "2022 - Hal-hazırda",
+        "roles": [
+            "Data strukturları",
+            "Database menecmenti",
+            "Veb inkişafının əsasları"
+        ]
+    },
+    {
+        "title": "Full Stack proqramlaşdırma",
+        "institution": "Holberton School",
+        "dates": "Fevral 2024 - Noyabr 2024",
+        "roles": [
+            "Data strukturları və alqoritmlər",
+            "Database menecmenti",
+            "Responsive dizayn",
+            "Yüksək səviyyə Backend Development"
+        ]
+    }
+]

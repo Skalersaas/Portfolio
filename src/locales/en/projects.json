@@ -1,0 +1,31 @@
+{
+    "projects-word": "Projects",
+    "showTech": "Tap for More",
+    "techUsed": "Technologies Used",
+    "view-project": "View Project",
+    "code": "Code",
+    "projects": [
+        {
+            "title": "Anonymous Chat",
+            "tagline": "New friends, new stories, no faces.",
+            "desc": "This cutting-edge real-time chat application combines an ASP.NET backend with a Vue.js frontend, creating a seamless platform for live conversations. Users can connect with random pairs through WebSockets, share files, photos, and videos, and easily switch to new partners. With features like pseudonym-based profiles and gender info, the app offers an interactive and dynamic way to meet new people.",
+            "techs": [
+                "C# & ASP.NET",
+                "WebSockets",
+                "Vue.Js",
+                "HTML CSS Tailwind"
+            ]
+        },       
+        {
+            "title": "Anonymous Chat",
+            "tagline": "New friends, new stories, no faces.",
+            "desc": "This cutting-edge real-time chat application combines an ASP.NET backend with a Vue.js frontend, creating a seamless platform for live conversations. Users can connect with random pairs through WebSockets, share files, photos, and videos, and easily switch to new partners. With features like pseudonym-based profiles and gender info, the app offers an interactive and dynamic way to meet new people.",
+            "techs": [
+                "C# & ASP.NET",
+                "WebSockets",
+                "Vue.Js",
+                "HTML CSS Tailwind"
+            ]
+        }
+    ]
+}

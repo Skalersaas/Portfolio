@@ -1,0 +1,25 @@
+[
+    {
+        "title": "System Analyst",
+        "institution":"Bpm Consult",
+        "dates": "May 2024 - Sep 2024",
+        "desc":"During my work, I provided working systems for a variety of clients, including financial institutions, legal firms, and manufacturing companies",
+        "roles":[
+            "Assessing client needs",
+            "Offering optimal solutions tailored to each challenge",
+            "Developing detailed work plans",
+            "Receiving final results and presenting them to clients"
+        ]
+    },
+    {
+        "title": "Backend Developer",
+        "institution":"Holberton School",
+        "dates": "Jan 2024 - Present",
+        "desc":"As a team leader, I design project architectures, ensuring scalability and performance. I break down complex tasks, assign them to team members, and provide guidance throughout the development process. By promoting collaboration and clear communication, I ensure the team stays aligned and delivers high-quality results on time.",
+        "roles":[
+            "Developed backend side of applications using ASP.NET and SQL",
+            "Built and maintained APIs and managed database integrations",
+            "Collaborated in teams, contributing to code reviews and debugging efforts"
+        ]
+    }
+]

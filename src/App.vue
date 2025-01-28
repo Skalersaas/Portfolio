@@ -5,6 +5,7 @@
     <Contacts id="section3"/>
 </div>
 <BottomNavBar/>
+
 <div class="fixed top-4 right-4 p-2 bg-yellow-500 rounded-full shadow-lg
         md:top-12">
   <select class="bg-yellow-500 text-white border-none focus:outline-none"

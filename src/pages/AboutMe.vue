@@ -1,6 +1,5 @@
 <template>
     <section class="section pb-24 md:pb-2 md:mt-24">
-        <img src="/src/assets/images/c_sharp.png" alt="sd">
         <!-- Header -->
         <div class="mt-4 p-3">
             <h1 class="text-lg font-bold text-center">{{ $t('aboutme.my-portfolio') }}</h1>

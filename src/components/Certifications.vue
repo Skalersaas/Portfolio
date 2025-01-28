@@ -2,27 +2,27 @@
 const data = [
     {
         href: 'https://www.hackerrank.com/certificates/649ed0c02e45',
-        src: '/src/assets/images/problem_solving.png'
+        src: '/public/images/problem_solving.png'
     },
     {
         href: 'https://www.hackerrank.com/certificates/c3a5a8c995f0',
-        src: '/src/assets/images/soft-engineer.png'
+        src: '/public/images/soft-engineer.png'
     },
     {
         href: 'https://www.hackerrank.com/certificates/6dea56357eb3',
-        src: '/src/assets/images/c_sharp.png'
+        src: '/public/images/c_sharp.png'
     },
     {
         href: 'https://www.hackerrank.com/certificates/7d991cde9c62',
-        src: '/src/assets/images/python.png'
+        src: '/public/images/python.png'
     },    
     {
         href: 'https://www.freecodecamp.org/certification/fcc103dcaa4-6b29-479c-b7d4-06761a1e6a76/foundational-c-sharp-with-microsoft',
-        src: '/src/assets/images/c_sharp2.png'
+        src: '/public/images/c_sharp2.png'
     },
     {
         href:'#',
-        src: '/src/assets/images/system-analyst.png'
+        src: '/public/images/system-analyst.png'
     },
     {
         href: '#',

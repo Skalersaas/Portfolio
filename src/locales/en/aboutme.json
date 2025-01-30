@@ -1,5 +1,5 @@
 {
-    "my-portfolio": "Welcome to My Portfolio",
+    "my-portfolio": "My Portfolio",
     "name": "Emin Amirov",
     "profession": "BPM Analyst & Full-Stack Developer",
     "short-info": "A passionate 20-year-old developer from Azerbaijan, eager to create impactful solutions.",
@@ -17,7 +17,7 @@
         "Education",
         "Certifications"
     ],
-    "rel-courses":"Worked with",
+    "rel-courses":"Studied",
     "responsibilities":"Responsibilities",
     "tap4more":"Tap for More"
 }

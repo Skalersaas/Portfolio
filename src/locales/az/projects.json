@@ -1,14 +1,14 @@
 {
     "projects-word": "Layihələr",
-    "showTech": "Daha çoxunu göstər",
+    "showTech": "Ətraflı məlumat üçün klikləyin",
     "techUsed": "İstifadə olunan Texnologiyalar",
-    "view-project": "Layihəyə bax",
+    "view-project": "Vebsayta baxın",
     "code": "Kod",
     "projects": [
         {
-            "title": "Anonim Çat",
-            "tagline": "Yeni dostlar, yeni hekayələr, heç bir üz yoxdur.",
-            "desc": "Bu qabaqcıl real vaxtda çat tətbiqi, ASP.NET backend və Vue.js frontend birləşdirərək, canlı söhbətlər üçün problemsiz bir platforma yaradır. İstifadəçilər WebSockets vasitəsilə təsadüfi cütlərlə əlaqə qurub, fayllar, şəkillər və videolar paylaşa, asanlıqla yeni tərəfdaşlara keçə bilərlər. Psevdonim əsaslı profillər və cinsiyyət məlumatları kimi xüsusiyyətlərlə tətbiq, yeni insanlarla tanış olmanın interaktiv və dinamik bir yolunu təklif edir.",
+            "title": "Anonim söhbət",
+            "tagline": "Yeni dostlar, yeni hekayələr",
+            "desc": "Bu qabaqcıl real vaxt söhbət proqramı canlı söhbətlər üçün qüsursuz platforma yaratmaq üçün ASP.NET backendini Vue.js frontend ilə birləşdirir. İstifadəçilər WebSockets vasitəsilə təsadüfi cütlərlə əlaqə saxlaya, faylları, fotoları və videoları paylaşa və asanlıqla yeni tərəfdaşlara keçə bilərlər. Tətbiq ləqəb əsaslı profil xüsusiyyətləri və gender məlumatı ilə yeni insanlarla tanış olmaq üçün interaktiv və dinamik üsul təklif edir",
             "techs": [
                 "C# & ASP.NET",
                 "WebSockets",

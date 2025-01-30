@@ -11,7 +11,7 @@
         <i class="text-xl" :class="icon"></i>
     </div>
     <span class="text-xs mt-1 transition-all duration-200 
-    md:ml-3 md:text-sm">{{ name }}</span>
+    md:ml-3 md:text-sm group-has-[div.-translate-y-2]:text-blue-700">{{ name }}</span>
 </a>
 </template>
 <script setup>

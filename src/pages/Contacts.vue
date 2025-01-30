@@ -1,6 +1,6 @@
 <template>
 <section class="section">
-    <section class="mt-16 pb-28 relative  md:pb-2 md:mt-24">
+    <section class="mt-16 pb-28 relative  md:pb-2 md:mt-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-3xl font-semibold text-[#2d2a28] text-center">{{ $t("contacts.contactme") }}</h2>
             <p class="mt-2 text-center text-lg text-[#5d4e46]">{{ $t("contacts.feelFree") }}</p>

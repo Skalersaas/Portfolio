@@ -12,7 +12,7 @@ export default {
         secondary: '#1E293B',
         accent: '#7477FF',
         lightAccent: '#A0AEC0',
-      },
+      }
     }
   }
 }

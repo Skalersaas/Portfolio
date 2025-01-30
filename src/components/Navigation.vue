@@ -3,8 +3,9 @@
       <nav class="flex justify-between items-center p-6 max-w-7xl mx-auto">
         <div v-for="(content, index) in buttons" :key="index">
           <button
-            class="font-semibold hover:text-[#a8a39d] transition duration-300 cursor-pointer"
-            :class="selectedTab === index ? 'text-[#5d4e46]' : ''"
+            class="transition duration-300 cursor-pointer
+            md:hover:text-[#a8a39d]"
+            :class="selectedTab == index ? 'font-bold' : 'font-medium'"
             @click="selectedTab = index"
           >
           {{ content }}

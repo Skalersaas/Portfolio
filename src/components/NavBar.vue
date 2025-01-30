@@ -1,5 +1,4 @@
 <script>
-
 const updateActiveBackground = (pageIndex) => {
     const backgrounds = ['nav1', 'nav2', 'nav3'];
     backgrounds.forEach((background, index) => {

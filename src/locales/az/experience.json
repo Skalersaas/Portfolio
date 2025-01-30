@@ -3,23 +3,23 @@
         "title": "Sistem Analitiki",
         "institution": "Bpm Consult",
         "dates": "May 2024 - Sentyabr 2024",
-        "desc": "İşlədiyim dövrdə, müxtəlif müştərilər üçün işlək sistemlər təmin etdim, bunlara maliyyə qurumları, hüquq firmaları və istehsalat şirkətləri daxildir.",
+        "desc": "İşlədiyim müddətdə müxtəlif müştərilər üçün iş sistemləri o cümlədən maliyyə institutları, hüquq firmaları və istehsal şirkətləri üçün istehsal sistemləri təqdim etmişəm.",
         "roles": [
-            "Müştəri ehtiyaclarını qiymətləndirmək",
-            "Hər bir problemə uyğun optimal həllər təklif etmək",
-            "Ətraflı iş planları hazırlamaq",
-            "Son nəticələri qəbul edib, müştərilərə təqdim etmək"
+            "Müştəri ehtiyaclarının qiymətləndirilməsi",
+            "Hər bir vəzifəyə uyğunlaşdırılmış optimal həllərin təklif edilməsi",
+            "Ətraflı iş planlarının hazırlanması",
+            "Yekun nəticələrin əldə edilməsi və müştərilərə təqdim edilməsi"
         ]
     },
     {
         "title": "Backend developer",
         "institution": "Holberton School",
         "dates": "Yanvar 2024 - Davam edir",
-        "desc": "Komanda rəhbəri olaraq layihə arxitekturalarını dizayn edirəm, miqyaslama və performansı təmin edirəm. Çətin tapşırıqları bölürəm, onları komanda üzvlərinə təyin edirəm və inkişaf prosesi boyunca rəhbərlik edirəm. Əməkdaşlığı və aydın kommunikasiya təşviq edərək komandanın eyni istiqamətdə qalmasını və yüksək keyfiyyətli nəticələr çatdırmasını təmin edirəm.",
+        "desc": "Bir komanda lideri olaraq, miqyaslılığı və performansı təmin edən layihələrin arxitekturasını tərtib edirəm. Mürəkkəb tapşırıqları komanda üzvləri arasında bölüşdürürəm və bütün inkişaf prosesində təlimat verirəm. Əməkdaşlığı və aydın ünsiyyəti asanlaşdırmaqla, komandanın eyni səviyyədə qalmasını və vaxtında keyfiyyətli nəticələr verməsini təmin edirəm",
         "roles": [
-            "ASP.NET və SQL istifadə edərək tətbiqlərin backend hissəsini inkişaf etdirdim",
-            "API-lər qurdum, verilənlər bazası inteqrasiyalarını idarə etdim",
-            "Komandalarda əməkdaşlıq etdim, kod nəzərdən keçirmə və səhv aradan qaldırma proseslərinə qatıldım"
+            "ASP.NET və SQL istifadə edərək server tərəfi proqramların hazırlanması",
+            "API-lərin yaradılması və saxlanılması. Bununla yanaşı verilənlər bazası inteqrasiyasını idarə edin",
+            "Komandalarda əməkdaşlıq edirəm, kod nəzərdən keçirmə və səhv aradan qaldırma proseslərinə qatılıram"
         ]
     }
 ]

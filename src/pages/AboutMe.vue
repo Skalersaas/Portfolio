@@ -1,7 +1,9 @@
 <template>
-    <section class="section pb-24 md:pb-2 md:mt-24">
+    <section class="section pb-24 
+    md:pb-2 md:mt-20">
         <!-- Header -->
-        <div class="mt-4 p-3">
+        <div class="mt-4 p-3
+            md:mt-0">
             <h1 class="text-lg font-bold text-center">{{ $t('aboutme.my-portfolio') }}</h1>
         </div>
         <!-- Profile -->

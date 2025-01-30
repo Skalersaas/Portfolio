@@ -1,12 +1,12 @@
 [
     {
-        "title": "Kompüter Mühəndisliyi üzrə BSc",
+        "title": "Kompüter Mühəndisliyi üzrə bakalavr",
         "institution": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
-        "dates": "2022 - Hal-hazırda",
+        "dates": "2022 - davam edir",
         "roles": [
-            "Data strukturları",
-            "Database menecmenti",
-            "Veb inkişafının əsasları"
+            "Data strukturları və alqoritmləri",
+            "Data bazasının  İdarə Edilməsi",
+            "Veb Development əsasları"
         ]
     },
     {
@@ -15,9 +15,9 @@
         "dates": "Fevral 2024 - Noyabr 2024",
         "roles": [
             "Data strukturları və alqoritmlər",
-            "Database menecmenti",
+            "Data bazasının  İdarə Edilməsi",
             "Responsive dizayn",
-            "Yüksək səviyyə Backend Development"
+            "Qabaqcıl Backend Development"
         ]
     }
 ]

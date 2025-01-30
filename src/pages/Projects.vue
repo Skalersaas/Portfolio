@@ -1,13 +1,13 @@
 <template>
-    <section class="section pb-24 md:pb-2 md:mt-24">
+    <section class="section pb-24 md:pb-2 md:mt-20">
         <div class="my-4 md:my-0 p-3">
             <h2 class="text-lg font-semibold text-[#2d2a28] text-center">{{ $t('projects.projects-word') }}</h2>
         </div>
         <div class="space-y-2 mx-3
         md:flex md:flex-wrap md:space-x-2 md:items-baseline">
             <Project v-for="(card, index) in $tm('projects.projects')"
-            :web-site="data[index].webSite"
-            :code="data[index].code">
+            :web-site="projects[index].webSite"
+            :code="projects[index].code">
             <template v-slot:title>{{ card.title }}</template>
             <template v-slot:tag>{{ card.tagline }}</template>
             <template v-slot:desc>{{ card.desc }}</template>
@@ -22,13 +22,5 @@
 </template>
 <script setup>
 import Project from '@/components/Project.vue';
-const data = [
-{
-        webSite:'https://anonymous-chat-six.vercel.app/',
-        code: 'https://github.com/Skalersaas/Anonymous-Chat'
-    },{
-        webSite:'https://anonymous-chat-six.vercel.app/',
-        code: 'https://github.com/Skalersaas/Anonymous-Chat'
-    },
-]
+import projects from '@/data/projects';
 </script>

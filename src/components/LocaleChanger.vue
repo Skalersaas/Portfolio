@@ -21,7 +21,7 @@
         <i :class="isDark ? 'fas fa-sun' : 'fas fa-moon'"></i>
       </button> -->
       <select
-        :class="['p-2 rounded-full bg-transparent border-none focus:outline-none appearance-none cursor-pointer md:top-12',isDark ? 'text-white' : 'text-black' ]"
+        :class="['p-2 bg-[#1f1f1f] border-[#333] rounded-md z-10 bg-transparent border-none focus:outline-none appearance-none cursor-pointer md:top-12',isDark ? 'text-white' : 'text-black' ]"
         @change="changeLocale"
         v-model="selectedLanguage"
       >

@@ -1,7 +1,7 @@
 <template>
   <section
     :class="[
-      'section pb-24 md:pb-2 bg-[#161616]',
+      'section pb-24 md:pb-20 bg-[#161616]',
       isDark ? 'bg-[#161616]' : 'bg-white',
     ]"
   >

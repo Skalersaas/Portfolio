@@ -12,7 +12,7 @@
     </h2>
     <p
       class="italic before:content-['\0022'] after:content-['\0022'] mb-4 text-[#d7d7d7]"
-      :class="[isDark ? 'text-[#d7d7d7]' : 'text-[#191919]',
+      :class="[isDark ? 'text-[#d7d7d7]' : 'text-[#343434]',
         showMore && 'line-clamp-2'
       ]"
     >
@@ -22,7 +22,7 @@
       class="text-[#d3d3d3] mb-4 text-md"
       :class="
         [showMore && 'line-clamp-2',
-        isDark ? 'text-[#d3d3d3]' : 'text-[#313131]']
+        isDark ? 'text-[#d3d3d3]' : 'text-[#343434]']
       "
     >
       <slot name="desc"></slot>

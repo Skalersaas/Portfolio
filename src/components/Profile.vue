@@ -11,18 +11,6 @@
       <p class="text-[15px] text-[#828282] leading-6">
         {{ $t("aboutme.short-info") }}
       </p>
-
-      <div class="flex gap-2">
-        <button :class="['text-xs p-2 rounded-md', isDark ? 'text-white bg-[#373737]' : 'text-black bg-[#d4d4d4]']">
-          Call Me
-        </button>
-        <button
-          :class="['text-xs p-2 rounded-md border border-[#242424] shadow-lg', isDark ? 'text-white' : 'text-black']"
-        >
-          Copy Email
-        </button>
-      </div>
-
     </div>
     <img
       src="/images/profile.png"

@@ -11,7 +11,7 @@
       <slot name="title"></slot>
     </h2>
     <p
-      class="italic before:content-['\0022'] after:content-['\0022'] mb-4 text-[#d7d7d7]"
+      class="italic before:content-['\0022'] after:content-['\0022'] mb-4"
       :class="[isDark ? 'text-[#d7d7d7]' : 'text-[#343434]',
         showMore && 'line-clamp-2'
       ]"
@@ -19,7 +19,7 @@
       <slot name="tag"></slot>
     </p>
     <p
-      class="text-[#d3d3d3] mb-4 text-md"
+      class="mb-4 text-md"
       :class="
         [showMore && 'line-clamp-2',
         isDark ? 'text-[#d3d3d3]' : 'text-[#343434]']

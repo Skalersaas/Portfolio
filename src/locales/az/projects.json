@@ -2,19 +2,102 @@
     "projects-word": "Layihələr",
     "showTech": "Ətraflı məlumat üçün klikləyin",
     "techUsed": "İstifadə olunan Texnologiyalar",
-    "view-project": "Vebsayta baxın",
+    "view-project": "Sayt",
     "code": "Kod",
     "projects": [
         {
-            "title": "Anonim söhbət",
-            "tagline": "Yeni dostlar, yeni hekayələr",
-            "desc": "Bu qabaqcıl real vaxt söhbət proqramı canlı söhbətlər üçün qüsursuz platforma yaratmaq üçün ASP.NET backendini Vue.js frontend ilə birləşdirir. İstifadəçilər WebSockets vasitəsilə təsadüfi cütlərlə əlaqə saxlaya, faylları, fotoları və videoları paylaşa və asanlıqla yeni tərəfdaşlara keçə bilərlər. Tətbiq ləqəb əsaslı profil xüsusiyyətləri və gender məlumatı ilə yeni insanlarla tanış olmaq üçün interaktiv və dinamik üsul təklif edir",
+            "title": "Axi.com",
+            "tagline": "Ağıllı backend məntiqi ilə treydinq platformasının təkmilləşdirilməsi.",
+            "desc": "Əsas məntiq hissələrini təkrar istifadə oluna biləcək modul kodla yenidən quraraq performansı artırdım. Admin panelin istifadə rahatlığını və funksionallığını yaxşılaşdırdım, hal-hazırda istifadə edilən yeni xüsusiyyətlər əlavə etdim.",
             "techs": [
-                "C# & ASP.NET",
-                "WebSockets",
-                "Vue.Js",
-                "HTML CSS Tailwind"
+                "C# və ASP.NET Core",
+                "Vue.js",
+                "SQL",
+                "Təmiz arxitektura",
+                "Admin panel hazırlanması",
+                "Komponent əsaslı UI"
             ]
+        },
+        {
+            "title": "CruiseOffers",
+            "tagline": "Kod təkmilləşməsi və yeni funksiyalarla daha yaxşı istifadəçi təcrübəsi.",
+            "desc": "Layihənin backend və frontend hissəsində genişmiqyaslı refaktorinq apardım. Bütün biznes məntiqini daha aydın hala gətirdim, admin paneli daha funksional və rahat etdim, istifadəçilər üçün görünən yeni imkanlar hazırladım.",
+            "techs": [
+                "C# və ASP.NET Core",
+                "Vue.js",
+                "SQL",
+                "Kod refaktorinqi və məntiq dizaynı",
+                "UI/UX təkmilləşdirilməsi",
+                "Admin panel optimallaşdırılması"
+            ]
+        },
+        {
+            "title": "Dutify – Microsoft Teams Bot",
+            "tagline": "Teams üçün avtomatik video yazımı.",
+            "desc": "Microsoft Teams botu üçün videoyazma funksiyasını sıfırdan qurmuşam. Raw byte-ların qəbulundan tutmuş, audio/video-nun kodlaşdırılmasına və sinxronizasiyasına qədər bütün prosesi mən idarə etmişəm.",
+            "techs": [
+                "C# və .NET",
+                "Media kodlaşdırma",
+                "FFmpeg",
+                "Microsoft Teams Bot API",
+                "Sinyal emalı",
+                "Asinxron stream-lər"
+            ]
+        },
+        {
+            "title": "Holberton CRM Sistemi",
+            "tagline": "Modul arxitektura ilə tələbə idarəetməsi.",
+            "desc": "Holberton School Azərbaycan üçün tələbələrin idarəsi, kurslar və inkişafı izləmək məqsədilə daxili CRM sistemi yaratdım. Rol əsaslı giriş (RBAC), modul servislər və testlər tətbiq etdim. Komanda rəhbəri kimi arxitektura qərarlarına rəhbərlik etdim, frontend və backend inteqrasiyasını həyata keçirdim.",
+            "techs": [
+                "C# və ASP.NET Core",
+                "Entity Framework Core",
+                "RBAC",
+                "xUnit Test",
+                "Modul arxitektura",
+                "Agile əməkdaşlıq"
+            ]
+        },
+        {
+            "title": "Yallı",
+            "tagline": "Yaşadığın ölkədə yerlilərini tap",
+            "desc": "Yallı, xaricdə yaşayan azərbaycanlılar üçün yaradılmış sosial platformadır. İstifadəçilər yaşadıqları ölkədəki digər yerliləri tapa, əlaqə qura və cəmiyyətlə daha güclü bağlar yarada bilərlər. Geniş istifadəçi interfeysi, interaktiv xəritə və istifadəçi profilləri ilə asan və intuitiv bir təcrübə təqdim edir.",
+            "techs": ["React.js", "SCSS", "Redux", "JavaScript"]
+        },
+        {
+            "title": "StudenV",
+            "tagline": "Student Community Base Digital Environment",
+            "desc": "StudenV, tələbələr üçün nəzərdə tutulmuş rəqəmsal bir cəmiyyətdir. Bu platforma tələbələrin təcrübələrini bölüşməsi, yeni dostluqlar qurması və məlumat paylaşması üçün interaktiv bir mühit yaradır. Tədbirlər, forumlar və resurs bölmələri ilə tədris həyatını daha sosial və faydalı edir.",
+            "techs": ["Next.js", "Tailwind CSS", "Zustand", "TypeScript"]
+        },
+        {
+            "title": "Fully Pictured Solutions",
+            "tagline": "Photography and Videography Services",
+            "desc": "Fully Pictured Solutions, professional foto və video çəkiliş xidmətləri təqdim edən bir platformadır. Müştərilər toy, tədbir və portret çəkilişləri üçün asanlıqla sifariş verə, portfoliolara baxa və xidmətlər haqqında məlumat əldə edə bilərlər. Estetik dizayn və funksional istifadəçi təcrübəsi ilə seçilir.",
+            "techs": ["Next.js", "SCSS", "Tailwind CSS", "Zustand", "TypeScript"]
+        },
+        {
+            "title": "VitaMail",
+            "tagline": "Email Validation Service",
+            "desc": "VitaMail, e-poçt adreslərinin düzgünlüyünü və aktivliyini yoxlamağa imkan verən sürətli və dəqiq bir email doğrulama alətidir. İstifadəçilər birdən çox e-poçt ünvanını yoxlaya, nəticələri real vaxtda əldə edə və istifadəçi bazalarını təmiz saxlaya bilərlər.",
+            "techs": ["Next.js", "SCSS", "Tailwind CSS", "Zustand", "TypeScript"]
+        },
+        {
+            "title": "AI Tools",
+            "tagline": "AI Generator Free Tools",
+            "desc": "AI Tools, istifadəçilərə müxtəlif süni intellekt əsaslı alətlər təqdim edir — mətn generasiyası, təsvir analizi, sosial media məzmunu yaratma və daha çox. Sadə interfeys və real nəticələrlə AI gücündən istifadə etmək bu platformada tamamilə pulsuz və rahatdır.",
+            "techs": ["Next.js", "SCSS", "Tailwind CSS", "Zustand", "TypeScript"]
+        },
+        {
+            "title": "Boston Pro Car Service",
+            "tagline": "High-class limo services",
+            "desc": "Boston Pro Car Service, Boston və ətraf bölgələrdə yüksək səviyyəli limuzin və sürücü xidmətləri təqdim edir. İstifadəçilər lüks avtomobillərlə hava limanı transferləri, xüsusi tədbirlər və korporativ səfərlər üçün asanlıqla rezervasiya edə bilərlər.",
+            "techs": ["Next.js", "SCSS", "Tailwind CSS", "Zustand", "TypeScript"]
+        },
+        {
+            "title": "Appro Appliance Service",
+            "tagline": "SAME-DAY APPLIANCE REPAIR",
+            "desc": "Appro Appliance Service, məişət texnikalarının eyni gün içində təmirini təmin edən peşəkar bir xidmət platformasıdır. Soyuducu, soba, paltaryuyan və digər cihazların təmiri üçün istifadəçilər sadə form vasitəsilə xidmət sifariş edə bilirlər.",
+            "techs": ["Next.js", "SCSS", "Tailwind CSS", "Zustand", "TypeScript"]
         }
     ]
 }

@@ -1,25 +1,43 @@
 [
-    {
-        "title": "Sistem Analitiki",
-        "institution": "Bpm Consult",
-        "dates": "May 2024 - Sentyabr 2024",
-        "desc": "İşlədiyim müddətdə müxtəlif müştərilər üçün iş sistemləri o cümlədən maliyyə institutları, hüquq firmaları və istehsal şirkətləri üçün istehsal sistemləri təqdim etmişəm.",
-        "roles": [
-            "Müştəri ehtiyaclarının qiymətləndirilməsi",
-            "Hər bir vəzifəyə uyğunlaşdırılmış optimal həllərin təklif edilməsi",
-            "Ətraflı iş planlarının hazırlanması",
-            "Yekun nəticələrin əldə edilməsi və müştərilərə təqdim edilməsi"
-        ]
-    },
-    {
-        "title": "Backend developer",
-        "institution": "Holberton School",
-        "dates": "Yanvar 2024 - Davam edir",
-        "desc": "Bir komanda lideri olaraq, miqyaslılığı və performansı təmin edən layihələrin arxitekturasını tərtib edirəm. Mürəkkəb tapşırıqları komanda üzvləri arasında bölüşdürürəm və bütün inkişaf prosesində təlimat verirəm. Əməkdaşlığı və aydın ünsiyyəti asanlaşdırmaqla, komandanın eyni səviyyədə qalmasını və vaxtında keyfiyyətli nəticələr verməsini təmin edirəm.",
-        "roles": [
-            "ASP.NET və SQL istifadə edərək server tərəfi proqramların hazırlanması",
-            "API-lərin yaradılması və saxlanılması. Bununla yanaşı verilənlər bazası inteqrasiyasını idarə edin",
-            "Komandalarda əməkdaşlıq edirəm, kod nəzərdən keçirmə və səhv aradan qaldırma proseslərinə qatılıram"
-        ]
-    }
+  {
+    "title": "Full Stack Veb Proqramçı",
+    "institution": "DilyaSoft",
+    "dates": "Dekabr 2024 – İndiyədək",
+    "desc": "C#, ASP.NET Core, SQL, Vue.js və React/Next.js istifadə edərək müəssisə sistemlərini saxladım və modernləşdirdim",
+    "roles": [
+      "Köhnə VB6 masaüstü tətbiqini müasir UI/UX ilə WinForms-a keçirdim",
+      "Microsoft Teams botuna video yazma funksiyası əlavə etdim",
+      "Bir neçə məhsul üzrə admin panellərinin rahatlığını və strukturunu yaxşılaşdırdım"
+    ]
+  },
+  {
+    "title": "Komanda Rəhbəri / C# Proqramçı",
+    "institution": "Holberton School Azərbaycan",
+    "dates": "May 2024 – İndiyədək",
+    "desc": ".NET Core, RBAC və xUnit ilə tələbələrin idarəsi üçün daxili CRM sistemi yaratdım",
+    "roles": [
+      "Sistem arxitekturasını modulluq, testləşdirmə və genişlənə bilənlik üçün təkmilləşdirdim",
+      "Frontend və DevOps komandaları ilə planlaşdırma və inkişaf proseslərinə rəhbərlik etdim"
+    ]
+  },
+  {
+    "title": "Müqaviləli Full Stack Proqramçı",
+    "institution": "Vitanur",
+    "dates": "Sentyabr 2024 – May 2025",
+    "desc": "Next.js və Python API-ləri ilə bir neçə sayt üçün admin panelləri və dashboardlar hazırladım",
+    "roles": [
+      "Təmiz UX və dinamik məzmunlu tam funksiyalı platformalar sıfırdan hazırladım",
+      "Süni intellekt əsaslı xidmətləri istehsal öncəsi frontend sistemlərinə inteqrasiya etdim"
+    ]
+  },
+  {
+    "title": "Sistem Analitiki",
+    "institution": "BPM Consult",
+    "dates": "May 2024 – Avqust 2024",
+    "desc": "Müştəri ehtiyaclarını analiz etdim və biznes loqikasını texniki həllərə çevirdim",
+    "roles": [
+      "Banklar, zavodlar və xidmət müəssisələri üçün xüsusi sistem dizaynları hazırladım",
+      "Tərəfdaşlarla və proqramçı komandası ilə birlikdə effektiv və uyğun çatdırmanı təmin etdim"
+    ]
+  }
 ]

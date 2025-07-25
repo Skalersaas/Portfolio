@@ -1,12 +1,14 @@
 <template>
   <div
     :class="[isDark ? 'bg-[#5a5a5a8c]' : 'bg-white']"
-    class="p-6 rounded-lg shadow-lg cursor-pointer md:max-w-[40%] lg:max-w-[30%] xl:max-w-[25%]"
+    class="p-6 rounded-lg shadow-lg cursor-pointer"
     @click="showMore = !showMore"
   >
     <!-- Title (Dynamic: Work or Education) -->
     <h2
-      :class="['text-2xl font-semibold', isDark ? 'text-white' : 'text-black']"
+      :class="['text-2xl font-semibold', 
+            isDark ? 'text-white' : 'text-black',
+            showMore && 'truncate']"
     >
       <slot name="title"></slot>
     </h2>

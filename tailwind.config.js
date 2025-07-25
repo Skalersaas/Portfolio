@@ -4,7 +4,9 @@ export default {
     "./*.html", // Match all HTML files in the root directory
     "./src/**/*.{js,jsx,ts,tsx,vue}", // Match source files for dynamic frameworks like Vue or React
   ],
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
   theme: {
     extend: {
       colors: {

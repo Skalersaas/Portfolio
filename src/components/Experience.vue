@@ -1,7 +1,7 @@
 <template>
-    <div class="space-y-2 pt-3 
-        md:flex md:flex-wrap md:space-x-2 md:items-baseline">
-        <Card v-for="card in $tm('experience')">
+    <div class="mt-3 grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-2 items-start">
+        <Card v-for="card in $tm('experience')"
+        class=" w-full">
             <template v-slot:title>{{ card.title }}</template>
             <template v-slot:institution>{{ card.institution }}</template>
             <template v-slot:dates>{{ card.dates }}</template>

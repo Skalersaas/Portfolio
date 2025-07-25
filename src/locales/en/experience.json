@@ -1,25 +1,44 @@
-[
-    {
-        "title": "System Analyst",
-        "institution":"Bpm Consult",
-        "dates": "May 2024 - Sep 2024",
-        "desc":"During my work, I provided working systems for a variety of clients, including financial institutions, legal firms, and manufacturing companies",
-        "roles":[
-            "Assessing client needs",
-            "Offering optimal solutions tailored to each challenge",
-            "Developing detailed work plans",
-            "Receiving final results and presenting them to clients"
-        ]
-    },
-    {
-        "title": "Backend Developer",
-        "institution":"Holberton School",
-        "dates": "Jan 2024 - Present",
-        "desc":"As a team leader, I design project architectures, ensuring scalability and performance. I break down complex tasks, assign them to team members, and provide guidance throughout the development process. By promoting collaboration and clear communication, I ensure the team stays aligned and delivers high-quality results on time.",
-        "roles":[
-            "Developed backend side of applications using ASP.NET and SQL",
-            "Built and maintained APIs and managed database integrations",
-            "Collaborated in teams, contributing to code reviews and debugging efforts"
-        ]
-    }
+
+   [
+  {
+    "title": "Full Stack Web Developer",
+    "institution": "DilyaSoft",
+    "dates": "Dec 2024 – Present",
+    "desc": "Maintained and modernized enterprise systems using C#, ASP.NET Core, SQL, Vue.js, and React/Next.js",
+    "roles": [
+      "Translated a legacy VB6 desktop application into WinForms with a modern UI/UX",
+      "Integrated video recording features into Microsoft Teams bot",
+      "Improved usability and structure of admin panels across multiple products"
+    ]
+  },
+  {
+    "title": "Team Lead / C# Developer",
+    "institution": "Holberton School Azerbaijan",
+    "dates": "May 2024 – Present",
+    "desc": "Built a full internal CRM system to manage student lifecycles using .NET Core, RBAC, and xUnit",
+    "roles": [
+      "Enhanced system architecture to support modularity, testing, and scalability",
+      "Led planning, architecture, and cross-team development with frontend and DevOps contributors"
+    ]
+  },
+  {
+    "title": "Contract Full Stack Developer",
+    "institution": "Vitanur",
+    "dates": "Sep 2024 – May 2025",
+    "desc": "Delivered admin panels and dashboards for multiple sites using Next.js and Python APIs",
+    "roles": [
+      "Built full-stack web platforms from scratch with clean UX and dynamic content integration",
+      "Integrated AI-powered services into production-ready frontend systems"
+    ]
+  },
+  {
+    "title": "Systems Analyst",
+    "institution": "BPM Consult",
+    "dates": "May 2024 – Aug 2024",
+    "desc": "Analyzed client needs and translated business logic into technical solutions",
+    "roles": [
+      "Delivered tailored system designs for banks, factories, and service firms",
+      "Collaborated with stakeholders and development teams to ensure aligned delivery"
+    ]
+  }
 ]

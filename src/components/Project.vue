@@ -1,8 +1,8 @@
 <template>
   <div
     :class="[
-      'shadow-lg rounded-2xl p-6 cursor-pointer md:max-w-[40%] lg:max-w-[30%] xl:max-w-[25%]',
-      isDark ? 'bg-[#4c4c4c8c] text-white' : ' bg-[#f1f1f1b0] text-black',
+      'shadow-lg rounded-2xl p-6 cursor-pointer w-full',
+      isDark ? 'bg-[#4c4c4c8c] text-white' : ' bg-[#f1f1f1b0] text-black border',
     ]"
     @click="showMore = !showMore"
   >
@@ -12,15 +12,17 @@
     </h2>
     <p
       class="italic before:content-['\0022'] after:content-['\0022'] mb-4 text-[#d7d7d7]"
-      :class="isDark ? 'text-[#d7d7d7]' : 'text-[#666666]'"
+      :class="[isDark ? 'text-[#d7d7d7]' : 'text-[#191919]',
+        showMore && 'line-clamp-2'
+      ]"
     >
       <slot name="tag"></slot>
     </p>
     <p
       class="text-[#d3d3d3] mb-4 text-md"
       :class="
-        (showMore && 'overflow-ellipsis overflow-hidden whitespace-nowrap',
-        isDark ? 'text-[#d3d3d3]' : 'text-[#666666]')
+        [showMore && 'line-clamp-2',
+        isDark ? 'text-[#d3d3d3]' : 'text-[#313131]']
       "
     >
       <slot name="desc"></slot>
@@ -63,15 +65,19 @@
     </div>
     <!-- View and Source Code Buttons -->
     <div class="flex justify-between items-center mt-4">
-      <a
+      <a 
         :href="webSite"
         target="_blank"
+        disabled="disabled"
         @click.stop
-        :class="['font-semibold border border-[#374a40] bg-[#4e575241] rounded-lg px-4 py-2 bg-[#374a40] hover:bg-[#243B2F] hover:text-[#b3bdb8]', isDark ? 'text-[#cdd1cf]' : 'text-[#374a40]']"
+        :class="[
+          !webSite ? 'opacity-50  cursor-not-allowed' : 'hover:bg-[#243B2F] hover:text-[#b3bdb8]',
+          'font-semibold border border-[#374a40] bg-[#4e575241] rounded-lg px-4 py-2 bg-[#374a40]', isDark ? 'text-[#cdd1cf]' : 'text-[#374a40]']"
       >
         {{ $t("projects.view-project") }}
       </a>
       <a
+        v-if="code"
         :href="code"
         target="_blank"
         @click.stop

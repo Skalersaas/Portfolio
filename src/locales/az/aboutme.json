@@ -2,14 +2,16 @@
     "my-portfolio": "Mənim Portfelim",
     "name": "Emin Əmirov",
     "profession": "BPM Analitik və Full-Stack developer",
-    "short-info": "Davamlı mənalı həllər yaratmaq həvəsində olan 20 yaşlı Azərbaycanlı developer",
-    "long-info": "BPM Analitiki və Full-Stack Developer kimi mən dərin biznes araşdırmalarını qabaqcıl texnologiyalarla birləşdirərək təkcə innovativ deyil, həm də istifadəsi asan həllər yaradıram. Mənim məqsədim həqiqətən istifadəçi məmnuniyyətini yaxşılaşdıran optimallaşdırılmış və səmərəli sistemlər yaratmaqdır.",
+    "short-info": "C# və ASP.NET Core sahəsində təcrübəli Full Stack Developer, təmiz kod, miqyaslana bilən sistemlər və komanda işi ön plandadır.",
+    "long-info": "Mən C# və ASP.NET Core ilə miqyaslana bilən veb tətbiqlər hazırlamaq sahəsində təcrübəli Full Stack Developerəm. Həm backend, həm də frontend hissəsində rahat işləyirəm və təmiz, oxunaqlı kod yazmağa üstünlük verirəm. Kiçik komandaları idarə etmişəm, performansı və kod keyfiyyətini yaxşılaşdırmışam. Düşünürəm ki, yaxşı kommunikasiya güclü arxitektura qədər vacibdir.",
     "about-word": "Haqqımda",
     "skills-tech": "Bacarıqlar və Texnologiyalar",
     "skills": [
-        "ASP.NET", "EF", "JWT", "WebSockets",
-        "HTML&CSS", "Vue.Js", "Tailwind",
-        "C#", "Python", "JavaScript", "C++", "C"
+        "C#", "TypeScript", "Python", "SQL",
+        "ASP.NET", "WinForms", "EF", "REST", "JWT", "RBAC",
+        "React", "Next.js", "Vue.js", "Tailwind CSS",
+        "xUnit", "Swagger",
+        "Docker", "Azure", "Git", "CI/CD pipelines", "AWS"
     ],
     "nav": [
         "Təcrübə",

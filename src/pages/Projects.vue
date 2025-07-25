@@ -9,7 +9,7 @@
       <!-- <h2 class="text-lg font-semibold text-[#2d2a28] text-center">{{ $t('projects.projects-word') }}</h2> -->
     </div>
     <div
-      class="space-y-2 mx-3 mt-6 md:mt-10 md:flex md:flex-wrap md:space-x-2 md:items-baseline"
+      :class="['mx-3 mt-10 grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-3 items-start']"
     >
       <Project
         v-for="(card, index) in $tm('projects.projects')"

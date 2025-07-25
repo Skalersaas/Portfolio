@@ -2,16 +2,17 @@
     "my-portfolio": "My Portfolio",
     "name": "Emin Amirov",
     "profession": "BPM Analyst & Full-Stack Developer",
-    "short-info": "A passionate 20-year-old developer from Azerbaijan, eager to create impactful solutions.",
-    "long-info": "As a BPM Analyst and Full-Stack Developer, I combine deep business insights with cutting-edge technology to craft solutions that are not only innovative but also user-friendly. My goal is always to create streamlined, efficient systems that truly enhance user satisfaction.",
+    "short-info": "Full Stack Developer experienced in C# and ASP.NET Core, focused on clean code, scalable systems, and collaborative teamwork.",
+    "long-info": "I'm a Full Stack Developer with practical experience in building scalable web applications using C# and ASP.NET Core. I work confidently across both backend and frontend, and I prioritize clean, maintainable code. I've led small teams, improved performance and code quality, and I believe that strong communication is just as crucial as solid architecture.",
     "about-word": "About",
     "skills-tech":"Skills & Technology",
     "skills": [
-        "ASP.NET", "EF", "JWT", "WebSockets",
-        "HTML&CSS", "Vue.Js", "Tailwind",
-        "C#", "Python","JavaScript", "C++","C"
-    ]
-    ,
+        "C#", "TypeScript", "Python", "SQL",
+        "ASP.NET", "WinForms", "EF", "REST", "JWT", "RBAC",
+        "React", "Next.js", "Vue.js", "Tailwind CSS",
+        "xUnit", "Swagger",
+        "Docker", "Azure", "Git", "CI/CD pipelines", "AWS"
+    ],
     "nav": [
         "Experience",
         "Education",

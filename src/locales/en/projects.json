@@ -2,29 +2,141 @@
     "projects-word": "Projects",
     "showTech": "Tap for More",
     "techUsed": "Technologies Used",
-    "view-project": "View Project",
+    "view-project": "View website",
     "code": "Code",
     "projects": [
         {
-            "title": "Anonymous Chat",
-            "tagline": "New friends, new stories, no faces.",
-            "desc": "This cutting-edge real-time chat application combines an ASP.NET backend with a Vue.js frontend, creating a seamless platform for live conversations. Users can connect with random pairs through WebSockets, share files, photos, and videos, and easily switch to new partners. With features like pseudonym-based profiles and gender info, the app offers an interactive and dynamic way to meet new people.",
+            "title": "Axi.com",
+            "tagline": "Trading platform enhancements with smarter backend logic.",
+            "desc": "Restructured and optimized core parts of the application logic, introducing modular, reusable code across the platform. Improved the overall usability and functionality of the admin panel, and contributed to several new features now used by thousands of active traders.",
             "techs": [
-                "C# & ASP.NET",
-                "WebSockets",
-                "Vue.Js",
-                "HTML CSS Tailwind"
+                "C# & ASP.NET Core",
+                "Vue.js",
+                "SQL",
+                "Clean Architecture",
+                "Admin Panel Development",
+                "Component-based UI"
             ]
         },
         {
-            "title": "Test Chat",
-            "tagline": "New friends, new stories, no faces.",
-            "desc": "This cutting-edge real-time chat application combines an ASP.NET backend with a Vue.js frontend, creating a seamless platform for live conversations. Users can connect with random pairs through WebSockets, share files, photos, and videos, and easily switch to new partners. With features like pseudonym-based profiles and gender info, the app offers an interactive and dynamic way to meet new people.",
+            "title": "CruiseOffers",
+            "tagline": "Better user experience through code refactoring and new features.",
+            "desc": "Refactored and modernized a large portion of the platform’s backend and frontend code. Introduced clear business logic separation, improved the usability of the admin interface, and built visible new features currently in production and accessible to end users.",
             "techs": [
-                "C# & ASP.NET",
-                "WebSockets",
-                "Vue.Js",
-                "HTML CSS Tailwind"
+                "C# & ASP.NET Core",
+                "Vue.js",
+                "SQL",
+                "Refactoring & Logic Design",
+                "UI/UX Enhancements",
+                "Admin Panel Optimization"
+            ]
+        },
+        {
+            "title": "Dutify – Microsoft Teams Bot",
+            "tagline": "Automated video capturing inside Teams.",
+            "desc": "Implemented a full video recording workflow for a Microsoft Teams bot. Built and optimized the logic from capturing raw byte streams to encoding, muxing, and syncing audio/video tracks. This feature enabled automatic meeting recordings, playback integration, and more advanced team reporting tools.",
+            "techs": [
+                "C# & .NET",
+                "Media Encoding",
+                "FFmpeg",
+                "Microsoft Teams Bot API",
+                "Signal Handling",
+                "Async Streams"
+            ]
+        },
+        {
+            "title": "Holberton CRM System",
+            "tagline": "Smart student lifecycle management with modular architecture.",
+            "desc": "Designed and built an internal CRM system for Holberton School Azerbaijan to manage students, courses, and progression. Implemented role-based access control (RBAC), modular service layers, and unit tests for reliability and scalability. As a team lead, guided architectural decisions, integrated frontend with backend, and collaborated with DevOps for streamlined deployment.",
+            "techs": [
+                "C# & ASP.NET Core",
+                "Entity Framework Core",
+                "RBAC",
+                "xUnit Testing",
+                "Modular Architecture",
+                "Agile Collaboration"
+            ]
+        },
+        {
+            "title": "Yallı",
+            "tagline": "Find your fellow countrymen wherever you live",
+            "desc": "Yallı is a social platform designed for Azerbaijanis living abroad. Users can discover and connect with locals in their current country and build stronger ties with the community. It features an intuitive user interface, interactive map, and customizable profiles.",
+            "techs": [
+                "React.js",
+                "SCSS",
+                "Redux",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "StudenV",
+            "tagline": "Student Community Base Digital Environment",
+            "desc": "StudenV is a digital community designed for students. The platform enables them to share experiences, make new friends, and exchange knowledge. With features like events, forums, and resource sections, it helps make academic life more social and rewarding.",
+            "techs": [
+                "Next.js",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Fully Pictured Solutions",
+            "tagline": "Photography and Videography Services",
+            "desc": "Fully Pictured Solutions is a platform offering professional photo and video services. Clients can easily book sessions for weddings, events, or portraits, browse portfolios, and get detailed information about services. It stands out with its aesthetic design and user-friendly experience.",
+            "techs": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "VitaMail",
+            "tagline": "Email Validation Service",
+            "desc": "VitaMail is a fast and accurate email verification tool that helps users check the validity and activity status of email addresses. It supports bulk verification and provides real-time results to help maintain clean mailing lists.",
+            "techs": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "AI Tools",
+            "tagline": "AI Generator Free Tools",
+            "desc": "AI Tools offers a collection of free AI-powered tools for text generation, image analysis, social media content creation, and more. With a simple interface and practical output, the platform makes AI accessible and easy to use.",
+            "techs": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Boston Pro Car Service",
+            "tagline": "High-class limo services",
+            "desc": "Boston Pro Car Service provides luxury limousine and chauffeur services in Boston and surrounding areas. Users can easily book airport transfers, special events, or corporate rides with premium vehicles.",
+            "techs": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Appro Appliance Service",
+            "tagline": "Same-day appliance repair",
+            "desc": "Appro Appliance Service is a professional platform offering same-day repair for home appliances. Users can request service for refrigerators, ovens, washers, and more through a simple booking form.",
+            "techs": [
+                "Next.js",
+                "SCSS",
+                "Tailwind CSS",
+                "Zustand",
+                "TypeScript"
             ]
         }
     ]

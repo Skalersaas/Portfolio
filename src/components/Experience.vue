@@ -1,5 +1,5 @@
 <template>
-    <div class="mx-3 space-y-2 pt-3 
+    <div class="space-y-2 pt-3 
         md:flex md:flex-wrap md:space-x-2 md:items-baseline">
         <Card v-for="card in $tm('experience')">
             <template v-slot:title>{{ card.title }}</template>
